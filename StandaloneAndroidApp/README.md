@@ -1,5 +1,4 @@
-Introduction
-------------  
+## Introduction ##
 
 This is an android-based implementation of ProtoSound with our pre-trained MobileNetV2 model.
 
