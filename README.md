@@ -13,21 +13,11 @@ It adapts prototypical networks, a commonly used algorithm for few-shot image cl
 
 The project is inspired by previous sound awareness work with DHH users, our DHH lead author's experiences, and a survey of 472 DHH participants. According to field evaluations with a real-life dataset and an interactive mobile application, ProtoSound can be used to build sound recognition systems that support highly personalized and fine-grained sound categories, can train on-device in real-time, and can handle contextual variations in a variety of real-world contexts using few custom recordings.
 
-This repository contains samples of 10 sound categories preferred by DHH people, procured from a high-quality online library, FreeSound, and manually cleaned by our research team:
-- Appliances
-- Baby Cry
-- Car Honk
-- Cat Meow
-- Dog Bark
-- Doorbell
-- Fire Alarm
-- Knocking
-- Siren
-- Water Running
+The **DeployablePythonCode** folder contains the python-based implementation of ProtoSound which can be run on any python-enabled devices.
 
-Navigate to the **DeployablePythonCode** folder for the python-based implementation of ProtoSound which can be run on any python-enabled devices.
+The **StandaloneAndroidApp** folder contains the android-based implementation of ProtoSound which can be run on android development platforms that meet the prerequisites specified.
 
-Navigate to the **StandaloneAndroidApp** folder for the android-based implementation of ProtoSound which can be run on android development platforms that meet the prerequisites specified.
+This repository also contains samples of 10 sound categories preferred by DHH people (e.g, fire alarm, knocking, baby crying), procured from a high-quality online library, FreeSound, and manually cleaned by our research team. Navigate to **StandaloneAndroidApp/app/src/main/assets/library** for the full library of sounds.
 
 [[Website](https://makeabilitylab.cs.washington.edu/project/protosound/)]  
 [[Paper PDF](https://homes.cs.washington.edu/~djain/img/portfolio/Jain_ProtoSound_CHI2022.pdf)]  
