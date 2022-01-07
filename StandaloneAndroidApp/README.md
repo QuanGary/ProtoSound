@@ -2,9 +2,10 @@
 
 This is an android-based implementation of ProtoSound with our pre-trained MobileNetV2 model.
 
-[[Website](https://makeabilitylab.cs.washington.edu/project/protosound/)] 
-[[Paper PDF](https://homes.cs.washington.edu/~djain/img/portfolio/Jain_ProtoSound_CHI2022.pdf)] 
-[[Video](https://homes.cs.washington.edu/~djain/img/portfolio/protosound-video.mp4)] 
+[[Website](https://makeabilitylab.cs.washington.edu/project/protosound/)]  
+[[Paper PDF](https://homes.cs.washington.edu/~djain/img/portfolio/Jain_ProtoSound_CHI2022.pdf)]  
+[[Video](https://homes.cs.washington.edu/~djain/img/portfolio/protosound-video.mp4)]  
+
 ## Table Of Contents
 
 0. [Prerequisite](#prerequisites)

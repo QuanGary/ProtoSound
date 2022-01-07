@@ -30,8 +30,7 @@ Navigate to the **DeployablePythonCode** folder for the python-based implementat
 Navigate to the **StandaloneAndroidApp** folder for the android-based implementation of ProtoSound which can be run on android development platforms that meet the prerequisites specified.
 
 [[Website](https://makeabilitylab.cs.washington.edu/project/protosound/)]  
-[[Paper PDF](https://homes.cs.washington.edu/~djain/img/portfolio/Jain_ProtoSound_CHI2022.pdf)]
+[[Paper PDF](https://homes.cs.washington.edu/~djain/img/portfolio/Jain_ProtoSound_CHI2022.pdf)]  
 [[Video](https://homes.cs.washington.edu/~djain/img/portfolio/protosound-video.mp4)]  
 
-  
-  
+
